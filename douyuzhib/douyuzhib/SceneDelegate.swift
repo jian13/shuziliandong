@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  DYZB
+//  douyuzhib
 //
 //  Created by 朱建 on 2021/10/11.
 //
